@@ -1,5 +1,6 @@
 import React from "react";
 import QuranLogo from "../../../assets/QuranLogo.png";
+import Quranpage from '../../../Components/Home/Components/Menu/Quran'
 import Qibla from "../../../assets/Qibla.png";
 import Adhkar from "../../../assets/Adhkar.png";
 import Roadmap from "../../../assets/Roadmap.png";
@@ -8,7 +9,7 @@ import Book from "../../../assets/Book.png";
 
 const Mainview = () => {
   const buttons = [
-    { image: QuranLogo, alt: "Quran", label: "Quran", link: "#" },
+    { image: QuranLogo, alt: "Quran", label: "Quran", link: {Quranpage}},
     { image: Qibla, alt: "Qibla Direction", label: "Qibla", link: "#" },
     { image: Adhkar, alt: "Adhkar", label: "Adhkar", link: "#" },
     { image: Roadmap, alt: "Road Map", label: "Road Map", link: "#" },

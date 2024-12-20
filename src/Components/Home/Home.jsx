@@ -9,7 +9,7 @@ const Homepage = () => {
 
     return (
         <>
-        <Navbar />
+            <Navbar />
             <Mainview />
             </>
     );
