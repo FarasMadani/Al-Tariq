@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168.28 81.86">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+        font-family: Seravek, Seravek;
+        font-size: 54.09px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(14.75 58.27) scale(.86 1)"><tspan class="cls-4" x="0" y="0">A</tspan><tspan x="36.3" y="0">l</tspan><tspan class="cls-3" x="51.22" y="0">T</tspan><tspan class="cls-1" x="75.89" y="0">ariq</tspan></text>
+  <rect class="cls-5" x="1.5" y="1.5" width="165.28" height="78.53"/>
+</svg>
