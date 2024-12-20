@@ -9,7 +9,8 @@ const Homepage = () => {
 
     return (
         <>
-            <Quran />
+        <Navbar />
+            <Mainview />
             </>
     );
 };
