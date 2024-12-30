@@ -1,20 +1,14 @@
 import React from "react";
 import QuranLogo from "../../../assets/QuranLogo.png";
-import QuranPage from '../../../Components/Home/Components/Menu/Quran';
-import Qibla from "../../../assets/Qibla.png";
 import Adhkar from "../../../assets/Adhkar.png";
 import Roadmap from "../../../assets/Roadmap.png";
-import Chat from "../../../assets/Chat.png";
 import Book from "../../../assets/Book.png";
 import { Routes, Route, Link } from "react-router-dom";
 
 const Mainview = () => {
   const buttons = [
     { image: QuranLogo, alt: "Quran", label: "Quran", link: "/quran" },
-    { image: Qibla, alt: "Qibla Direction", label: "Qibla", link: "/qibla" },
     { image: Adhkar, alt: "Adhkar", label: "Adhkar", link: "/adhkar" },
-    { image: Roadmap, alt: "Road Map", label: "Road Map", link: "/roadmap" },
-    { image: Chat, alt: "Chat", label: "Chat", link: "/chat" },
     { image: Book, alt: "Books", label: "Books", link: "/books" }
   ];
 
