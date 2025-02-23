@@ -1,10 +1,8 @@
 import React from "react";
 import NavBar from "../Navbar";
-import Cover1 from "/Users/faras/Desktop/x/projects/dev/Altariq/altariq/src/Covers/theforthynawaiCover.png";
-
+import Cover1 from "../../../../Covers/theforthynawaiCover.png";
 const books = () => {
     const handleReadClick = () => {
-        // Open the PDF file in a new tab
         window.open('/theforthynawai.pdf', '_blank');
       };
   return (
