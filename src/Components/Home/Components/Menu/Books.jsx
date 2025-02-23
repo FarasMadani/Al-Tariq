@@ -1,6 +1,6 @@
 import React from "react";
 import NavBar from "../Navbar";
-
+import Cover1 from "/Users/faras/Desktop/x/projects/dev/Altariq/altariq/src/Covers/theforthynawaiCover.png";
 
 const books = () => {
     const handleReadClick = () => {
